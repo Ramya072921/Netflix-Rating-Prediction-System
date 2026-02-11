@@ -1,1 +1,2 @@
-# Netflix-Rating-Prediction-System
+# Netflix
+Prediction Netflix ratings
